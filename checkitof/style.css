@@ -1,0 +1,45 @@
+#checkitof-wrapper {
+    max-width: 400px;
+    margin: 20px auto;
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#checkitof-new-task {
+    width: 70%;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+#checkitof-add-btn {
+    padding: 8px 12px;
+    background-color: #0073aa;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#checkitof-task-list {
+    margin-top: 20px;
+    padding: 0;
+}
+
+#checkitof-task-list li {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 8px;
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#checkitof-task-list li.completed {
+    text-decoration: line-through;
+    color: gray;
+}
