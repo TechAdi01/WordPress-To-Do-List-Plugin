@@ -49,13 +49,16 @@ CheckItOf is a simple and lightweight to-do list plugin for WordPress. It allows
 └── templates/
     └── todo-list.php    # UI markup (loaded via shortcode)
 ```
+-- 
 #🧠Technologies Used
 
-  -PHP (WordPress Hooks & Options API)
-  -JavaScript (jQuery & AJAX)
-  -HTML5 & CSS3
-  -WordPress Shortcodes
-  -WordPress Plugin Architecture
+- PHP (WordPress Hooks & Options API)
+- JavaScript (jQuery & AJAX)
+- HTML5 & CSS3
+- WordPress Shortcodes
+- WordPress Plugin Architecture
+
+--
 
 #🤝 Contributions
 
