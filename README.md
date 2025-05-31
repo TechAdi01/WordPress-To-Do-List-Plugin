@@ -40,7 +40,7 @@ CheckItOf is a simple and lightweight to-do list plugin for WordPress. It allows
       -Tasks are stored in the WordPress database using the options table.
       -You can modify styles and extend functionality (e.g., due dates, persistent user tasks, etc.)
 
-#📁 Plugin File Structure
+##📁 Plugin File Structure
  ```bash
   checkitof/
 ├── checkitof.php        # Main plugin file
@@ -50,7 +50,7 @@ CheckItOf is a simple and lightweight to-do list plugin for WordPress. It allows
     └── todo-list.php    # UI markup (loaded via shortcode)
 ```
 -- 
-#🧠Technologies Used
+##🧠Technologies Used
 
 - PHP (WordPress Hooks & Options API)
 - JavaScript (jQuery & AJAX)
@@ -60,7 +60,7 @@ CheckItOf is a simple and lightweight to-do list plugin for WordPress. It allows
 
 --
 
-#🤝 Contributions
+##🤝 Contributions
 
 Pull requests and ideas are welcome. This project is open for learning and collaboration.
 
